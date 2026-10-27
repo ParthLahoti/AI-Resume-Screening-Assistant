@@ -1,0 +1,29 @@
+*** FICTIONAL CANDIDATE RESUME FOR EVALUATION PURPOSES ONLY ***
+
+Alex Morgan
+Email: alex.morgan.fictional@example.com
+Portfolio: github.com/fictional-alexm
+
+PROFESSIONAL SUMMARY
+Backend Software Developer with 2.5 years of experience building web applications and API microservices using Python and modern relational databases. Passionate about clean architecture, automated testing, and reliable software delivery.
+
+WORK EXPERIENCE
+Associate Backend Developer | DevScale Solutions (June 2023 - Present)
+- Developed and maintained 12+ RESTful microservice endpoints using FastAPI to serve internal dashboard tools.
+- Designed relational schemas and wrote optimized complex SQL queries in PostgreSQL, improving response latency by 25%.
+- Authored comprehensive test suites using pytest with 85%+ test coverage.
+- Used Git for daily version control and collaborated in 2-week Agile sprint ceremonies.
+
+Junior Software Engineer | DataCraft Labs (January 2022 - May 2023)
+- Maintained backend scripting jobs using Python and Pandas for ETL workflows.
+- Packaged services into Docker containers and configured basic GitHub Actions workflows for automated test runs.
+- Assisted senior engineers in profiling slow database queries in MySQL.
+
+TECHNICAL SKILLS
+- Languages: Python, SQL, Bash
+- Frameworks & Libraries: FastAPI, Flask, Pydantic, pytest, SQLAlchemy
+- Databases & Tools: PostgreSQL, MySQL, Docker, Git, GitHub Actions, Linux
+*(Note: Redis and Cloud deployments like AWS/GCP were not actively utilized in these roles)*
+
+EDUCATION
+Bachelor of Science in Computer Science, Graduated 2022

@@ -1,0 +1,22 @@
+JOB TITLE: Junior-to-Mid Backend Engineer (Python)
+COMPANY: CloudSync Technologies (FICTIONAL ENTITY FOR TESTING)
+LOCATION: Remote
+
+ABOUT THE ROLE:
+We are seeking a Backend Engineer to build robust RESTful microservices and data processing pipelines.
+
+MUST-HAVE REQUIREMENTS:
+1. At least 2 years of professional software engineering experience with Python.
+2. Hands-on experience developing RESTful APIs using FastAPI or Flask.
+3. Proficiency with SQL databases (PostgreSQL preferred) and query optimization.
+4. Experience writing unit and integration tests using pytest or unittest.
+
+NICE-TO-HAVE QUALIFICATIONS:
+1. Familiarity with Docker containerization and CI/CD pipelines (e.g. GitHub Actions).
+2. Basic knowledge of caching layers such as Redis.
+3. Experience collaborating in Agile sprint cycles with Git version control.
+
+RESPONSIBILITIES:
+- Design, build, and maintain scalable APIs.
+- Collaborate with frontend engineers to integrate user-facing elements.
+- Optimize database schemas and queries for throughput and latency.
